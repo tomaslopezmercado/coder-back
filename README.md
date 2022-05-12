@@ -1,1 +1,0 @@
-#El motor de plantillas que elijo es el EJS, ya que se me hace que tiene una sintaxis mas parecida a lo que es JS y HTML, por lo cual me siento mas familiarizado
